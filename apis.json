@@ -1,0 +1,62 @@
+{
+    "name": "FuzeBox",
+    "description": "Fuze is the Leader in Enterprise Global Voice, Video, Messaging, and Collaboration\"",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/598-fuzebox.jpg",
+    "tags": [
+        "api not found",
+        "chats",
+        "have api",
+        "meetings",
+        "presence",
+        "sharing",
+        "telecommunications",
+        "webinars"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fuzebox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FuzeBox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/598-fuzebox.jpg",
+            "humanURL": "https:\/\/www.fuze.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fuzebox-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fuze"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fuzebox"
+        },
+        {
+            "type": "Email",
+            "url": "EMEA-info@fuze.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fuzebox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fuze"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fuze.com\/"
+        }
+    ]
+}
